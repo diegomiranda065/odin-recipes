@@ -1,1 +1,2 @@
 # odin-recipies
+This is a website I made about recipes as practice in what I have learned in the odin project. This was fun because I didn't take it too seriously but still felt like I was applying what I have recently learned.
